@@ -1,0 +1,32 @@
+.cards-container {
+  width: 870px;
+  margin: 10px auto;
+}
+
+.text-center {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.cards-list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.card-function {
+  width: 200px;
+  border: 1px solid rgba(220, 220, 220, 0.6);
+  border-radius: 2px;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  padding: 20px;
+}
+
+.card-function img {
+  height: 100px;
+}
+
+.card-function h3 {
+  margin: 10px 0;
+}

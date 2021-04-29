@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(47,47,45);
+  padding: 80px;
+  text-align: center;
+}
+
+.links a {
+  font-size: 40px;
+  color: rgb(255,150,111);
+  padding: 0 5px;
+}
+
+.links a:hover {
+  color: rgb(205,100,61);
+}
+
+.links p {
+  color: grey;
+}
+
+.links p i {
+  color: red;
+}
